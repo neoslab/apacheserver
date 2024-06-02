@@ -55,7 +55,7 @@ sudo apt -y install libsodium-dev
 Install necessary softwares
 
 ```shell
-sudo apt -y install apache2 apt-transport-https autoconf curl build-essential fail2ban gcc git gpg make nano software-properties-common unattended-upgrades wget
+sudo apt -y install apache2 apt-transport-https autoconf curl build-essential gcc git gpg make nano software-properties-common unattended-upgrades wget
 sudo systemctl status apache2.service
 ```
 
